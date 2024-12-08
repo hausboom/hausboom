@@ -6,5 +6,5 @@ Course: IT with Business Management (Bachelor's)<br>
 Profession: Coding<br>
 Languages: C++, Java, CSS<br>
 Passion: IT Development<br>
-<src image= :"C:\Users\ACER\Downloads\ghub.avif">
+
 
